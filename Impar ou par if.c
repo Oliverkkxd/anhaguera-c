@@ -3,7 +3,7 @@
 int main()
 {
     int numero;
-    printf("Escreva um número inteiro e positivo:");
+    printf("Escreva um número inteiro e positivo:\n");
     scanf("%i", &numero);
     
     if( numero % 2 == 0){
@@ -13,7 +13,6 @@ int main()
         printf("Esse número é impar.\n");
     }
     
-
     return 0;
 }
 
