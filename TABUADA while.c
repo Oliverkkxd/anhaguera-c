@@ -8,7 +8,7 @@ int main()
     
 while(valor_valido == false){
         
-    printf("Digite um numero de 1 a 10:");
+    printf("Digite um numero de 1 a 10:\n");
     scanf("%i", &numero);
     
     if (numero >= 1 && numero <= 10){
