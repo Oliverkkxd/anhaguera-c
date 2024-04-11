@@ -12,19 +12,11 @@ int main()
     scanf("%i", &idade );
     numerador++;
     
-    if(idade >=18){
+    if(idade >= 18){
         maior++;
     }
-    
-   
-    
-    
     }
     printf("%d Sao maiores de idade", maior);
-
-
-
-
     return 0;
 }
 
