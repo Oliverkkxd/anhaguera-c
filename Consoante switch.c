@@ -9,33 +9,31 @@ int main()
     switch(letra){
         
         case 'a' :
-        printf("é uma vogal");
+        printf("é uma vogal!");
         break;
         
         case 'e' :
-        printf("é uma vogal");
+        printf("é uma vogal!");
         break;
         
         case 'i' :
-        printf("é uma vogal");
+        printf("é uma vogal!");
         break;
         
         
         case 'o' :
-        printf("é uma vogal");
+        printf("é uma vogal!");
         break;
         
         
         case 'u' :
-        printf("é uma vogal");
+        printf("é uma vogal!");
         break;
         
         
         default:
-        printf("CONSOANTE");
-        break;
-        
-        
+        printf("CONSOANTE!!!");
+        break;   
     }
 
     return 0;
