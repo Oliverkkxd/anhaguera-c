@@ -4,9 +4,9 @@ int main()
 {
     int n1, n2;
     
-    printf("Digite um numero:");
+    printf("Digite um numero:\n");
     scanf("%i", &n1);
-    printf("Digite outro numero:");
+    printf("Digite outro numero:\n");
     scanf("%i", &n2);
     
 if(n1 > n2){
