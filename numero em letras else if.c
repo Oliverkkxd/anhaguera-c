@@ -5,7 +5,7 @@ int main()
     //Variaveis 
     int a;
 
-printf("Digite o primeiro número:");
+printf("Digite o primeiro número:\n");
 scanf("%i", &a);
 
 
