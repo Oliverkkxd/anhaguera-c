@@ -6,10 +6,10 @@ int main()
     // variavel
     int idade, tempo;
     
-printf("Digite sua idade:");
+printf("Digite sua idade:\n");
 scanf("%i", &idade);
 
-printf("Digite seu tempo de serviço:");
+printf("Digite seu tempo de serviço:\n");
 scanf("%i", &tempo);
 
 
